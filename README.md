@@ -42,7 +42,7 @@ Dashboards, approval flows, and a GitHub banner image.
 - Startups preparing for compliance frameworks
 - Remote or hybrid teams who need structure
 
-  🚀 Change Request Form (MVP)
+🚀 Change Request Form (MVP)
 GovernFlow now includes a lightweight, interactive change request form built with Streamlit. This MVP form lets you easily simulate submitting a change request and selecting a change type (Standard, Normal, Emergency).
 
 🖥️ Preview
